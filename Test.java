@@ -1,5 +1,7 @@
 class Test {
 	public static void main(String[] args) {
-		System.out.println("hoge");
+		int n = 5;
+		int[] a = [2, 3, 4, 5, 10];
+
 	}
 }
